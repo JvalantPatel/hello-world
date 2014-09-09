@@ -3,8 +3,6 @@ import org.springframework.boot.autoconfigure._
 import org.springframework.stereotype._
 import org.springframework.web.bind.annotation._
 
-//remove if not needed
-import scala.collection.JavaConversions._
 
 object SampleController   {
 
